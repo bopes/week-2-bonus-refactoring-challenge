@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Refactoring
 
 Ignore bonus.md for now -- that's a bonus release for when/if you've finished all other challenges.
