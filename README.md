@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Refactoring
 
 Ignore bonus.md for now -- that's a bonus release for when/if you've finished all other challenges.
@@ -21,3 +22,6 @@ Make sure the tests still pass.
 ## Continue
 * Make sure you have committed your work
 * Go to the [Main Readme](../README.md) and review the rest of the assessment
+=======
+# week-2-bonus-refactoring-challenge
+>>>>>>> 7836d608c7c504f786e0d6ba10c12f3a510d70a6
